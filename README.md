@@ -1,4 +1,7 @@
+
 # Welcome to your Lovable project
+
+Esta é uma landing page para Edilson, um pedreiro profissional com mais de 15 anos de experiência. O site apresenta seus serviços, portfólio e oferece uma maneira fácil para clientes em potencial entrarem em contato.
 
 ## Project info
 
