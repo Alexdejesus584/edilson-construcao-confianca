@@ -30,8 +30,7 @@ export const CTA = () => {
           className="bg-green-500 hover:bg-green-600 text-white text-lg font-bold animate-pulse transform hover:scale-105 transition-transform" 
           asChild
         >
-          {/* Lembre-se de substituir o número de telefone */}
-          <a href="https://wa.me/5511999999999?text=Olá,%20Edilson!%20Vi%20seu%20site%20e%20gostaria%20de%20pedir%20um%20orçamento." target="_blank" rel="noopener noreferrer">
+          <a href="https://wa.me/556492973989?text=Olá,%20Edilson!%20Vi%20seu%20site%20e%20gostaria%20de%20pedir%20um%20orçamento." target="_blank" rel="noopener noreferrer">
             <WhatsAppIcon className="mr-3 h-7 w-7" />
             Fale Direto no WhatsApp
           </a>
