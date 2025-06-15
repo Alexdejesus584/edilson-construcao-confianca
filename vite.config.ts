@@ -16,6 +16,8 @@ export default defineConfig(({ mode }) => ({
         "**/node_modules/**",
         "**/dist/**",
       ],
+      // Use polling for file watching to avoid EMFILE errors in some environments.
+      usePolling: true,
     },
   },
   plugins: [
