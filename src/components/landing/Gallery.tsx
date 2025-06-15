@@ -4,23 +4,23 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 const workItems = [
   {
     title: "Churrasqueiras Sob Medida",
-    image: "https://images.unsplash.com/photo-1494891848038-7bd202a2afeb?w=800&q=80&auto=format&fit=crop",
+    image: "/lovable-uploads/74b6702b-ad76-4a19-a062-dc7e8e3820a9.png",
     description: "Espaços gourmet perfeitos para reunir amigos e família."
   },
   {
-    title: "Revestimentos Modernos",
-    image: "https://images.unsplash.com/photo-1518005020951-eccb494ad742?w=800&q=80&auto=format&fit=crop",
-    description: "Acabamentos que valorizam e dão personalidade ao seu ambiente."
+    title: "Construção de Muros e Paredes",
+    image: "/lovable-uploads/0c6d23e9-4694-41a5-ae15-62cf5be5a85c.png",
+    description: "Levantamento de paredes com segurança e precisão para sua obra."
   },
   {
-    title: "Áreas Externas e Muros",
-    image: "https://images.unsplash.com/photo-1487958449943-2429e8be8625?w=800&q=80&auto=format&fit=crop",
-    description: "Construção e reforma de portões, muros e calçadas com segurança."
+    title: "Fundações e Alicerces",
+    image: "/lovable-uploads/7f43bce4-36a5-4491-aab8-6c54c5632cb3.png",
+    description: "A base sólida para a sua construção começar com o pé direito."
   },
   {
-    title: "Telhados e Coberturas",
-    image: "https://images.unsplash.com/photo-1466442929976-97f336a657be?w=800&q=80&auto=format&fit=crop",
-    description: "Soluções completas para proteção e conforto da sua casa."
+    title: "Calçadas e Áreas de Acesso",
+    image: "/lovable-uploads/1dfa9f0b-0824-4cb5-8f90-e92b96bb08c0.png",
+    description: "Construção e reforma de portões, calçadas e corredores."
   },
 ];
 
